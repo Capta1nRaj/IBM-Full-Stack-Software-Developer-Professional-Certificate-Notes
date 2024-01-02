@@ -112,10 +112,40 @@ Benefits of private cloud:-
 
 ### Community cloud:
 
+Cloud infrastructure [that] is provisioned for exclusive use by a specific community of consumers from organizations that have shared concerns (e.g., mission, security requirements, policy, and compliance considerations). It may be owned, managed, and operated by one or more of the organizations in the community, a third party, or some combination of them, and it may exist on or off premises.
+
 ### Hybrid cloud:
 
 Hybrid Cloud is a computing environment that connects an organization's on-premise private Cloud and third-party public Cloud, into a single flexible infrastructure for running the organizations applications and workloads. The mix of public and private Cloud resources gives organizations the flexibility to choose the optimal Cloud for each application or workload.
 
 **The 3 key tenants of a hybrid Cloud are interoperability, scalability, and portability.**
 
-There are two common types of hybrid Clouds, hybrid mono Cloud and hybrid multi-Cloud. Hybrid mono Cloud is a hybrid Cloud with one Cloud provider while a hybrid multi-Cloud is an open standards-based stack that can be deployed on any public Cloud infrastructure. There's also a variant of hybrid multi-Cloud called the composite multi-Cloud, which makes this flexibility even more granular as it distributes single applications across multiple providers, allowing you to move application components across Cloud services and vendors as needed.
+**There are two common types of hybrid Clouds, Hybrid Mono Cloud and Hybrid Multi Cloud.** Hybrid Mono Cloud is a Hybrid Cloud with one Cloud provider while a hybrid multi-Cloud is an open standards-based stack that can be deployed on any public Cloud infrastructure. There's also a variant of hybrid multi-Cloud called the composite multi-Cloud, which makes this flexibility even more granular as it distributes single applications across multiple providers, allowing you to move application components across Cloud services and vendors as needed.
+
+## Module 2 Glossary: Cloud Computing Models
+
+| **Term**                 | **Definition**                                                                                                                                                                                                                  |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **BPM**                  | Business Process Management                                                                                                                                                                                                           |
+| **Composite multicloud** | A variant of hybrid multicloud, distributes single applications across multiple providers, allowing you to move application components across cloud services and vendors as needed                                                    |
+| **CRM**                  | Customer Relationship Management                                                                                                                                                                                                      |
+| **HCM**                  | Human Capital Management                                                                                                                                                                                                              |
+| **Hybrid cloud**         | A computing environment that connects an organization’s on-premises private cloud and third-party public cloud into a single, flexible infrastructure for running the organization’s applications and workloads                     |
+| **Hybrid monocloud**     | A hybrid cloud with one cloud provider                                                                                                                                                                                                |
+| **Hybrid multicloud**    | An open standards-based stack that can be deployed on any public cloud infrastructure                                                                                                                                                 |
+| **IaaS**                 | Infrastructure as a service is a form of cloud computing that delivers fundamental compute, network, and storage resources to consumers on-demand, over the network, on a pay-as-you-go basis                                         |
+| **IoT**                  | Internet of things                                                                                                                                                                                                                    |
+| **MDM**                  | Master Data Management                                                                                                                                                                                                                |
+| **PaaS**                 | Platform as a service is a cloud computing model that provides customers a complete platform—hardware, software, and infrastructure—to develop, deploy, manage, and run applications created by them or acquired from a third-party |
+| **Pay-as-you-go**        | Users can order cloud resources from a larger pool of available resources and pay for them on a per-use basis                                                                                                                         |
+| **Private Cloud**        | Cloud infrastructure provisioned for exclusive use by a single organization comprising multiple consumers, such as the business units within the organization                                                                         |
+| **Public cloud**         | Users get access to servers, storage, network, security, and applications as services delivered by cloud service providers over the internet                                                                                          |
+| **SaaS**                 | Software as a service is a cloud offering that provides users with access to a service provider’s cloud-based software                                                                                                               |
+| **SIP**                  | SaaS integration platforms                                                                                                                                                                                                            |
+| **TCO**                  | Total cost for ownership                                                                                                                                                                                                              |
+| **VM**                   | Virtual machine                                                                                                                                                                                                                       |
+| **VPC**                  | Virtual Private Cloud                                                                                                                                                                                                                 |
+
+## Cloud Infrastructure
+
+1. s
